@@ -35,4 +35,12 @@
 2. 微生物污染(ΔCq)：使用RT-qPCR对样本中的细菌核酸污染进行定量的结果。
 3. 有效数据(M)：去除低质量测序数据并剪切掉接头序列后得到的测序数据量。
 4. 去重后数据(M)：使用分子标签去除重复序列之后得到的测序数据量。
+### 3. 全转录组基因测定数值
+
+基因测定值示例：
+
+<table class="table table-hover"><thead><tr><th><div class="d-flex"><span class="sort-indicator"></span><span>Gene Id</span></div></th><th><div class="d-flex"><span class="sort-indicator"></span><span>Crc-32-plasma</span></div></th></tr></thead><tbody><tr><td>ENSG00000000419.14|9276|DPM1|protein_coding</td><td>5</td></tr><tr><td>ENSG00000000938.13|3382|FGR|protein_coding</td><td>5</td></tr><tr><td>ENSG00000001084.13|8618|GCLC|protein_coding</td><td>17</td></tr><tr><td>ENSG00000001167.15|6209|NFYA|protein_coding</td><td>2</td></tr><tr><td>ENSG00000001497.18|12555|LAS1L|protein_coding</td><td>1</td></tr><tr><td>ENSG00000001617.12|4826|SEMA3F|protein_coding</td><td>1</td></tr><tr><td>ENSG00000001629.10|7389|ANKIB1|protein_coding</td><td>12</td></tr><tr><td>ENSG00000001631.16|6204|KRIT1|protein_coding</td><td>11</td></tr><tr><td>ENSG00000002330.14|1708|BAD|protein_coding</td><td>3</td></tr><tr><td>ENSG00000002549.13|3779|LAP3|protein_coding</td><td>6</td></tr><tr><td>ENSG00000002586.20_PAR_Y|4858|CD99|protein_coding</td><td>153</td></tr><tr><td>ENSG00000002586.20|4858|CD99|protein_coding</td><td>78</td></tr><tr><td>ENSG00000002746.15|13935|HECW1|protein_coding</td><td>1</td></tr><tr><td>ENSG00000002834.18|7061|LASP1|protein_coding</td><td>29</td></tr><tr><td>ENSG00000003056.8|3585|M6PR|protein_coding</td><td>7</td></tr></tbody></table>
+
+*  [全转录组基因测定数值表 - 预览链接](https://cloud.tsinghua.edu.cn/f/8276270e208343f18999/)
+*    [全转录组基因测定数值表 - 下载链接](https://cloud.tsinghua.edu.cn/f/c71b6d4aa63c49fea7c7/?dl=1)
 
